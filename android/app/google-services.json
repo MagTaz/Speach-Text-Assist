@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20908731184",
+    "project_id": "speech-text-assist",
+    "storage_bucket": "speech-text-assist.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20908731184:android:025fa3e0350939ad4376f5",
+        "android_client_info": {
+          "package_name": "com.example.speach_text_assist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC94HXwqRQ2S2NqPW7X1_ywicexE628e4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
