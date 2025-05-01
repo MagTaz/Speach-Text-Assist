@@ -1,16 +1,21 @@
-# speach_text_assist
+# Speech-Text-Assist
 
-A new Flutter project.
+This Flutter application helps individuals who are deaf or hard of hearing by converting spoken language into written text in real-time. The app uses speech recognition to display transcribed speech on the screen, enabling easier communication.
 
-## Getting Started
+## 🚀 Features
+- Real-time speech recognition
+- Clean and simple UI for quick readability
+- Designed for accessibility
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used
+- Flutter
+- Google Speech-to-Text API
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Objective
+To bridge the communication gap for the hearing-impaired community and promote more inclusive communication.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screenshots
+_Add screenshots here if available_
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧑‍💻 Author
+Mohamed Mohamed Barakat
