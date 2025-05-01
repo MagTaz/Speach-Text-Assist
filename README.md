@@ -1,3 +1,10 @@
+> 📱 **Speech-Text-Assist**  
+> Real-time speech-to-text app built with Flutter, designed for accessibility and ease of communication.
+
+![Banner](images/WelcomeScreen.png)
+
+
+
 # Speech-Text-Assist
 
 This Flutter application helps individuals who are deaf or hard of hearing by converting spoken language into written text in real-time. The app uses speech recognition to display transcribed speech on the screen, enabling easier communication.
@@ -17,18 +24,47 @@ To bridge the communication gap for the hearing-impaired community and promote m
 ## 📱 Screenshots
 
 ### Welcome Screen
-![Home](images/WelcomeScreen.png)
+![Welcome](images/WelcomeScreen.png)
+
+
+
+
+
 
 
 ### Sign up Screen
-![Home](images/SignupScreen.png)
+![SignUp](images/SignupScreen.png)
+
+
+
+
+
 
 
 ### Login Screen
-![Home](images/LoginScreen.png)
+![Login](images/LoginScreen.png)
+
+
+
+
+
 
 ### Home Screen
 ![Home](images/HomeScreen.png)
+
+
+
+
+
+
+
+### Home Screen (Change Language)
+![Home](images/HomeScreen_changeLanguage.png)
+
+
+
+
+
 
 ## 🧑‍💻 Author
 Mohamed Mohamed Barakat
