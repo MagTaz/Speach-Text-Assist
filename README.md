@@ -15,7 +15,8 @@ This Flutter application helps individuals who are deaf or hard of hearing by co
 To bridge the communication gap for the hearing-impaired community and promote more inclusive communication.
 
 ## 📱 Screenshots
-_Add screenshots here if available_
+### Home Screen
+![Home](images/HomeScreen.png)
 
 ## 🧑‍💻 Author
 Mohamed Mohamed Barakat
