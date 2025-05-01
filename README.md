@@ -21,7 +21,7 @@ To bridge the communication gap for the hearing-impaired community and promote m
 
 
 ### Sign up Screen
-![Home](images/SignUpScreen.png)
+![Home](images/SignupScreen.png)
 
 
 ### Login Screen
